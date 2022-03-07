@@ -22,6 +22,11 @@
 ### 📕 Latest Dev.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Access services in k8s that are not exposed publicly](https://dev.to/grigorkh/access-services-in-k8s-that-are-not-exposed-publicly-3bii)
+- [How to Install Docker on Ubuntu 21.10](https://dev.to/grigorkh/how-to-install-docker-on-ubuntu-2110-3aeo)
+- [Resilience Engineering – Don&#39;t Be Afraid to Show Your Vulnerable Side!](https://dev.to/grigorkh/resilience-engineering-don-t-be-afraid-to-show-your-vulnerable-side-58mf)
+- [What is Cloud-Native Computing and How CNCF Contributes to Industry](https://dev.to/grigorkh/what-is-cloud-native-computing-and-how-cncf-contributes-to-industry-10bi)
+- [What is AWS Landing Zone](https://dev.to/grigorkh/what-is-aws-landing-zone-3j8h)
 <!-- BLOG-POST-LIST:END -->
 
 
