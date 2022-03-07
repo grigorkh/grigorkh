@@ -1,7 +1,7 @@
 ### Hi there, I am Grig 👋
 
 - 🔭 I’m currently working on cool stuff.
-- 🌱 I’m currently learning Golang (whenever I have time outside of work)
+- 🌱 I’m currently learning Golang (baby steps)
 - 💬 Ask me about DevOps, Kubernetes, CNCF, Automations, RPi, Drones.
 - 👯 I’m looking to collaborate on open-source projects.
 
