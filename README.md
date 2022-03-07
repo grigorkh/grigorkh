@@ -13,16 +13,12 @@
 
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/grigorkh#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/grigorkh#gh-dark-mode-only)
+[twitter](https://twitter.com/grigorkh#gh-light-mode-only)
+[twitter](https://twitter.com/grigorkh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/grigorkh#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/grigorkh#gh-dark-mode-only)
+[linkedin](https://linkedin.com/in/grigorkh#gh-light-mode-only)
+[linkedin](https://linkedin.com/in/grigorkh#gh-dark-mode-only)
 &nbsp;&nbsp;
-<!--
-[![instagram](./img/instagram-light.svg)](https://instagram.com/grigorkh#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/grigorkh#gh-dark-mode-only)
--->
 ### 📕 Latest Dev.to Articles
 
 <!-- BLOG-POST-LIST:START -->
