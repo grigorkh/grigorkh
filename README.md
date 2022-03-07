@@ -27,6 +27,9 @@
 - [Resilience Engineering – Don&#39;t Be Afraid to Show Your Vulnerable Side!](https://dev.to/grigorkh/resilience-engineering-don-t-be-afraid-to-show-your-vulnerable-side-58mf)
 - [What is Cloud-Native Computing and How CNCF Contributes to Industry](https://dev.to/grigorkh/what-is-cloud-native-computing-and-how-cncf-contributes-to-industry-10bi)
 - [What is AWS Landing Zone](https://dev.to/grigorkh/what-is-aws-landing-zone-3j8h)
+- [node-gyp support in alpine linux](https://dev.to/grigorkh/node-gyp-support-in-alpine-linux-4d0f)
+- [JavaScript console is more than console.log&lpar;&rpar;](https://dev.to/grigorkh/javascript-console-is-more-than-console-log-1ddj)
+- [Docker Best Practices: Images](https://dev.to/grigorkh/docker-best-practices-images-558)
 <!-- BLOG-POST-LIST:END -->
 
 
