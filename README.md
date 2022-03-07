@@ -31,6 +31,8 @@
 - [node-gyp support in alpine linux](https://dev.to/grigorkh/node-gyp-support-in-alpine-linux-4d0f)
 - [JavaScript console is more than console.log&lpar;&rpar;](https://dev.to/grigorkh/javascript-console-is-more-than-console-log-1ddj)
 - [Docker Best Practices: Images](https://dev.to/grigorkh/docker-best-practices-images-558)
+- [What is HTTP/3 ?](https://dev.to/grigorkh/what-is-http3--4pib)
+- [How To Set Up Nginx with HTTP/2 Support](https://dev.to/grigorkh/how-to-set-up-nginx-with-http2-support-2mgb)
 <!-- BLOG-POST-LIST:END -->
 
 
