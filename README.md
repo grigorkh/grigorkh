@@ -23,6 +23,7 @@
 ### 📕 Latest Dev.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerfile: ADD vs COPY](https://dev.to/grigorkh/dockerfile-add-vs-copy-2k0l)
 - [Fix: tzdata hangs during Docker image build](https://dev.to/grigorkh/fix-tzdata-hangs-during-docker-image-build-4o9m)
 - [Access services in k8s that are not exposed publicly](https://dev.to/grigorkh/access-services-in-k8s-that-are-not-exposed-publicly-3bii)
 - [How to Install Docker on Ubuntu 21.10](https://dev.to/grigorkh/how-to-install-docker-on-ubuntu-2110-3aeo)
@@ -32,7 +33,6 @@
 - [node-gyp support in alpine linux](https://dev.to/grigorkh/node-gyp-support-in-alpine-linux-4d0f)
 - [JavaScript console is more than console.log&lpar;&rpar;](https://dev.to/grigorkh/javascript-console-is-more-than-console-log-1ddj)
 - [Docker Best Practices: Images](https://dev.to/grigorkh/docker-best-practices-images-558)
-- [What is HTTP/3 ?](https://dev.to/grigorkh/what-is-http3--4pib)
 <!-- BLOG-POST-LIST:END -->
 
 
