@@ -23,6 +23,8 @@
 ### 📕 Latest Dev.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL vs REST](https://dev.to/grigorkh/graphql-vs-rest-2ind)
+- [About Rust Programming Language](https://dev.to/grigorkh/about-rust-programming-language-36ac)
 - [Dockerfile: ADD vs COPY](https://dev.to/grigorkh/dockerfile-add-vs-copy-2k0l)
 - [Fix: tzdata hangs during Docker image build](https://dev.to/grigorkh/fix-tzdata-hangs-during-docker-image-build-4o9m)
 - [Access services in k8s that are not exposed publicly](https://dev.to/grigorkh/access-services-in-k8s-that-are-not-exposed-publicly-3bii)
@@ -31,8 +33,6 @@
 - [What is Cloud-Native Computing and How CNCF Contributes to Industry](https://dev.to/grigorkh/what-is-cloud-native-computing-and-how-cncf-contributes-to-industry-10bi)
 - [What is AWS Landing Zone](https://dev.to/grigorkh/what-is-aws-landing-zone-3j8h)
 - [node-gyp support in alpine linux](https://dev.to/grigorkh/node-gyp-support-in-alpine-linux-4d0f)
-- [JavaScript console is more than console.log&lpar;&rpar;](https://dev.to/grigorkh/javascript-console-is-more-than-console-log-1ddj)
-- [Docker Best Practices: Images](https://dev.to/grigorkh/docker-best-practices-images-558)
 <!-- BLOG-POST-LIST:END -->
 
 
