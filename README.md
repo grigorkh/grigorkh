@@ -1,8 +1,8 @@
 ### Hi there, I am Grig 👋
 
-- 🔭 I’m currently working on cool stuff.
+- 🔭 I’m currently working on Platform Engineering topics.
 - 🌱 I’m currently learning Golang (baby steps)
-- 💬 Ask me about DevOps, Kubernetes, CNCF, Automations, RPi, Drones.
+- 💬 Ask me about Platform Engineering, DevOps, Kubernetes, CNCF, Automations, RPi, Drones.
 - 👯 I’m looking to collaborate on open-source projects.
 
 <!--
