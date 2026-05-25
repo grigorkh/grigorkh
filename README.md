@@ -23,6 +23,7 @@
 ### 📕 Latest Dev.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents in CI/CD: Give Them Context, Not Production Authority](https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2)
 - [Advanced Docker Networking: A Complete Guide](https://dev.to/grigorkh/advanced-docker-networking-a-complete-guide-pel)
 - [Docker Compose vs Kubernetes: When to Use What](https://dev.to/grigorkh/docker-compose-vs-kubernetes-when-to-use-what-3l90)
 - [Docker Best Practices: Security](https://dev.to/grigorkh/docker-best-practices-security-1b3)
@@ -32,7 +33,6 @@
 - [Dockerfile: ADD vs COPY](https://dev.to/grigorkh/dockerfile-add-vs-copy-2k0l)
 - [Fix: tzdata hangs during Docker image build](https://dev.to/grigorkh/fix-tzdata-hangs-during-docker-image-build-4o9m)
 - [Access services in k8s that are not exposed publicly](https://dev.to/grigorkh/access-services-in-k8s-that-are-not-exposed-publicly-3bii)
-- [How to Install Docker on Ubuntu 21.10](https://dev.to/grigorkh/how-to-install-docker-on-ubuntu-2110-3aeo)
 <!-- BLOG-POST-LIST:END -->
 
 
